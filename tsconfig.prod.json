@@ -4,5 +4,11 @@
       "paths": {
         "cool-lib/*": ["dist/cool-lib/*"]
       }
-    }
+    },
+    "files": [
+      "src/main.ts"
+    ],
+    "include": [
+      "src/**/*.d.ts"
+    ]
   }
