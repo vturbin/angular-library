@@ -39,3 +39,7 @@ ng-package.json would look the same, except additional information of where the 
   }
 }`
 `dest` is the output directory of the library
+
+# Step 3
+
+Build a library using `ng build [YOUR_LIBRARY_NAME]`
