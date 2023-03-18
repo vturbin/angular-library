@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { CalendarComponent } from 'projects/cool-lib/src/lib/components/calendar/public_api';
-import { TextfieldComponent } from 'projects/cool-lib/src/lib/components/textfield/public_api';
-import { CoolLibService } from 'projects/cool-lib/src/lib/services/public_api';
+import { CalendarComponent } from 'cool-lib/components/calendar';
+import { TextfieldComponent } from 'cool-lib/components/textfield';
+import { CoolLibService } from 'cool-lib/services';
 
 import { AppComponent } from './app.component';
 

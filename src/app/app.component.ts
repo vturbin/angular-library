@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { CoolLibService } from '@cool-lib/services';
+import { CoolLibService } from 'cool-lib/services';
 
 @Component({
   selector: 'app-root',
